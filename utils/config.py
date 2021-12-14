@@ -1,0 +1,7 @@
+U_TKN = '<usr>'
+S_TKN = '<sys>'
+BOS = '[BOS]'
+EOS = '[EOS]'
+UNK = '[UNK]'
+MASK = '[MASK]'
+PAD = '[PAD]'
